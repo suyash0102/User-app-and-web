@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582452681616",
+    "project_id": "tifo-d0888",
+    "storage_bucket": "tifo-d0888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582452681616:android:359e789704d64f6944b115",
+        "android_client_info": {
+          "package_name": "com.sixamtech.stack_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582452681616-s1fmhbjdkukaundutrsasttevl23vihq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG4bJrvJ-oscs4OrOcoUB3ipC7TEnQZKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582452681616-s1fmhbjdkukaundutrsasttevl23vihq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
